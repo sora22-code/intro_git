@@ -5,4 +5,4 @@ Momoka ha yoku neru
 git.commit
 Git.add
 Git remove
-
+Git status
