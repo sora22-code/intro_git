@@ -2,3 +2,5 @@ Gitの練習を始めるドン
 ステージングエリアとは共有サーバーへpushする前の控え室みたいなイメージ
 git is difficult
 Momoka ha yoku neru
+git.commit
+Git.add
