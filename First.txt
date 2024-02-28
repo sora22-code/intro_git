@@ -6,3 +6,4 @@ git.commit
 Git.add
 Git remove
 Git status
+Git diff
